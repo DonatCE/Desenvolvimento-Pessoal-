@@ -65,3 +65,7 @@ Equipe de Análise
 Os dados utilizados no projeto são fictícios e servem apenas para fins de estudo e demonstração.
 
 Este projeto foi desenvolvido seguindo as práticas aprendidas nos cursos da Hashtag Treinamentos.
+
+
+<img width="1536" height="1024" alt="ChatGPT Image 12 de ago  de 2025, 18_43_19" src="https://github.com/user-attachments/assets/05357488-b7b1-4743-9392-c8fa7efdc6bd" />
+
