@@ -35,12 +35,11 @@ Editar
 bash
 Copiar
 Editar
-git clone (https://github.com/DonatCE/Desenvolvimento-Pessoal-)
+git clone https://github.com/seu-usuario/seu-repositorio.git
 2️⃣ Instale as dependências
 
 bash
-Copiar<img width="1536" height="1024" alt="ChatGPT Image 12 de ago  de 2025, 18_43_19" src="https://github.com/user-attachments/assets/71ab824d-d407-4651-85e7-d93fc6f473bc" />
-
+Copiar
 Editar
 pip install -r requirements.txt
 3️⃣ Adicione os arquivos de vendas na pasta dados/
